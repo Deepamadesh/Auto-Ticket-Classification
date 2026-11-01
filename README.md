@@ -146,38 +146,31 @@ The update set contains the custom table, its fields, the Category / Subcategory
 | Forgot password for school portal | Access | Forgot Password |
 | Performance issue on lab computer | Performance | Slow Computer |
 
-## Screenshots
-
 ### Ticket form with an automatically classified ticket
-![Sample ticket](screenshots/01-sample-ticket-network-wifi.png)
 
 ### Data model
 | | |
 |---|---|
-| Custom table | ![Custom table](screenshots/02-custom-table-incident-workflow.png) |
-| Form design | ![Form design](screenshots/03-form-design.png) |
-| Category choices | ![Category choices](screenshots/04-category-choices.png) |
-| Subcategory dependent on Category | ![Dependent field](screenshots/05-subcategory-dependent-field.png) |
-| Subcategory choices | ![Subcategory choices](screenshots/06-subcategory-choices.png) |
-| State choices | ![State choices](screenshots/07-state-choices.png) |
-
-### Flow
-![Flow overview](screenshots/08-flow-overview.png)
+| Custom table | 
+| Form design | 
+| Category choices | 
+| Subcategory dependent on Category | 
+| Subcategory choices | 
+| State choices | 
 
 | | |
 |---|---|
-| Condition: Wi-Fi or Network | ![Condition Wi-Fi or Network](screenshots/09-condition-wifi-or-network.png) |
-| Update Record: Network / Wi-Fi | ![Update Network](screenshots/10-update-record-network-wifi.png) |
-| Condition: Projector | ![Condition Projector](screenshots/11-condition-projector.png) |
-| Update Record: Hardware / Projector | ![Update Hardware](screenshots/12-update-record-hardware-projector.png) |
-| Send Email action | ![Send Email](screenshots/13-send-email-action.png) |
-| Flow execution details | ![Execution](screenshots/14-flow-execution-details.png) |
+| Condition: Wi-Fi or Network | 
+| Update Record: Network / Wi-Fi | 
+| Condition: Projector | 
+| Update Record: Hardware / Projector | 
+| Send Email action | 
+| Flow execution details | 
 
 ### Update Set
 | | |
 |---|---|
-| Update set contents | ![Update set contents](screenshots/15-update-set-contents.png) |
-| Update set (Studio view) | ![Update set Studio](screenshots/16-update-set-studio.png) |
+| Update set contents | | Update set (Studio view) | 
 
 ## Tech Stack
 
